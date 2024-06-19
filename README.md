@@ -1,3 +1,30 @@
+## imu_tools (jazzy) - 2.1.4-1
+
+The packages in the `imu_tools` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy imu_tools --override-release-repository-push-url git@github.com:revyos-ros/imu_tools-release` on `Wed, 19 Jun 2024 02:21:41 -0000`
+
+These packages were released:
+- `imu_complementary_filter`
+- `imu_filter_madgwick`
+- `imu_tools`
+- `rviz_imu_plugin`
+
+Version of package(s) in repository `imu_tools`:
+
+- upstream repository: https://github.com/CCNYRoboticsLab/imu_tools.git
+- release repository: https://github.com/revyos-ros/imu_tools-release.git
+- rosdistro version: `2.1.3-4`
+- old version: `2.1.3-4`
+- new version: `2.1.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## imu_tools (iron) - 2.1.4-1
 
 The packages in the `imu_tools` repository were released into the `iron` distro by running `/usr/bin/bloom-release -y imu_tools --rosdistro iron` on `Fri, 26 Apr 2024 14:02:22 -0000`
