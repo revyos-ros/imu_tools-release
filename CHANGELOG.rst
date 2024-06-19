@@ -2,6 +2,12 @@
 Changelog for package imu_filter_madgwick
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.4 (2024-04-26)
+------------------
+* Show remapped topic names (`#196 <https://github.com/CCNYRoboticsLab/imu_tools/issues/196>`_)
+* Set read-only parameters as read_only (`#185 <https://github.com/CCNYRoboticsLab/imu_tools/issues/185>`_)
+* Contributors: Christoph Fröhlich, Tamaki Nishino
+
 2.1.3 (2022-12-07)
 ------------------
 * Update CMakeLists to use targets
