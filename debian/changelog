@@ -1,0 +1,174 @@
+ros-humble-imu-tools (2.1.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Mon, 30 Sep 2024 16:00:00 -0000
+
+ros-humble-imu-tools (2.1.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 25 Apr 2024 16:00:00 -0000
+
+ros-humble-imu-tools (2.1.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 06 Dec 2022 16:00:00 -0000
+
+ros-humble-imu-tools (2.1.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Wed, 13 Jul 2022 16:00:00 -0000
+
+ros-humble-imu-tools (2.1.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Mon, 23 May 2022 16:00:00 -0000
+
+ros-humble-imu-tools (2.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Sun, 01 May 2022 16:00:00 -0000
+
+ros-humble-imu-tools (2.0.0-1bookworm) bookworm; urgency=high
+
+  * Initial release into ROS2 foxy, galactic and rolling
+  * Contributors: Martin Günther, tgreier
+
+ -- Martin Günther <martin.guenther@dfki.de>  Mon, 11 Apr 2022 16:00:00 -0000
+
+ros-humble-imu-tools (1.2.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Sun, 24 May 2020 16:00:00 -0000
+
+ros-humble-imu-tools (1.2.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Sun, 05 May 2019 16:00:00 -0000
+
+ros-humble-imu-tools (1.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 24 May 2018 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 23 May 2017 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Sun, 21 May 2017 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 09 Mar 2017 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 06 Sep 2016 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 06 Sep 2016 16:00:00 -0000
+
+ros-humble-imu-tools (1.1.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Sun, 24 Apr 2016 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.11-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 21 Apr 2016 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.10-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 21 Apr 2016 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.9-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Thu, 15 Oct 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.8-1bookworm) bookworm; urgency=high
+
+  * Add imu_complementary_filter to meta package
+  * Contributors: Martin Günther
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 06 Oct 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.7-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 06 Oct 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.6-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Mon, 05 Oct 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.5-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 23 Jun 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.4-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 05 May 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.3-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Wed, 28 Jan 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Martin Günther <martin.guenther@dfki.de>  Mon, 26 Jan 2015 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.1-1bookworm) bookworm; urgency=high
+
+  * add me as maintainer to package.xml
+  * Contributors: Martin Günther
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 09 Dec 2014 16:00:00 -0000
+
+ros-humble-imu-tools (1.0.0-1bookworm) bookworm; urgency=high
+
+  * First public release
+  * catkinization of imu_tools metapackage
+  * Contributors: Francisco Vina
+
+ -- Martin Günther <martin.guenther@dfki.de>  Tue, 02 Sep 2014 16:00:00 -0000
+
+
