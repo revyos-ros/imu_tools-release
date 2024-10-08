@@ -2,6 +2,9 @@
 Changelog for package imu_filter_madgwick
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.0 (2024-10-01)
+------------------
+
 2.1.4 (2024-04-26)
 ------------------
 * Show remapped topic names (`#196 <https://github.com/CCNYRoboticsLab/imu_tools/issues/196>`_)
