@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/imu_tools-release
+release_repo_url: git@github.com:revyos-ros/imu_tools-release.git
 tracks:
   foxy:
     actions:
