@@ -1,0 +1,12 @@
+Source: ros-humble-imu-tools
+Section: misc
+Priority: optional
+Maintainer: Martin Günther <martin.guenther@dfki.de>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ros-workspace
+Homepage: http://ros.org/wiki/imu_tools
+Standards-Version: 3.9.2
+
+Package: ros-humble-imu-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-imu-complementary-filter, ros-humble-imu-filter-madgwick, ros-humble-rviz-imu-plugin, ros-humble-ros-workspace
+Description: Various tools for IMU devices
