@@ -1,0 +1,12 @@
+Source: ros-humble-rviz-imu-plugin
+Section: misc
+Priority: optional
+Maintainer: Martin Günther <martin.guenther@dfki.de>
+Build-Depends: debhelper (>= 9.0.0), qtbase5-dev, ros-humble-ament-cmake, ros-humble-message-filters, ros-humble-pluginlib, ros-humble-rclcpp, ros-humble-rviz-common, ros-humble-rviz-ogre-vendor, ros-humble-rviz-rendering, ros-humble-sensor-msgs, ros-humble-tf2, ros-humble-tf2-ros, ros-humble-ros-workspace
+Homepage: http://ros.org/wiki/rviz_imu_plugin
+Standards-Version: 3.9.2
+
+Package: ros-humble-rviz-imu-plugin
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libqt5core5a, libqt5gui5, libqt5opengl5, libqt5widgets5, ros-humble-message-filters, ros-humble-pluginlib, ros-humble-rclcpp, ros-humble-rviz-common, ros-humble-rviz-ogre-vendor, ros-humble-rviz-rendering, ros-humble-sensor-msgs, ros-humble-tf2, ros-humble-tf2-ros, ros-humble-ros-workspace
+Description: RVIZ plugin for IMU visualization
