@@ -1,0 +1,13 @@
+Source: ros-jazzy-imu-complementary-filter
+Section: misc
+Priority: optional
+Maintainer: Martin Günther <martin.guenther@dfki.de>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-geometry-msgs, ros-jazzy-message-filters, ros-jazzy-rclcpp, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2, ros-jazzy-tf2-ros, ros-jazzy-ros-workspace
+Homepage: http://www.mdpi.com/1424-8220/15/8/19302
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-imu-complementary-filter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ros-workspace
+Description: Filter which fuses angular velocities, accelerations, and (optionally) magnetic readings from a generic IMU device into a quaternion to represent the orientation of the device wrt the global frame.
+ Based on the algorithm by Roberto G. Valenti etal. described in the paper &quot;Keeping a Good Attitude: A Quaternion-Based Orientation Filter for IMUs and MARGs&quot; available at http://www.mdpi.com/1424-8220/15/8/19302 .
